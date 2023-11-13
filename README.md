@@ -31,7 +31,7 @@ Criamos um protótipo (sujeito a mudança ao longo do desenvolvimento do projeto
 <img src="https://github.com/jlateles/AV-ExercicioAvaliativo/blob/main/CapturasDeTelas/Pr%C3%B3totipo.png">
 
 # Interface Final 
-<img src="">
+<img src="https://github.com/jlateles/AV-ExercicioAvaliativo/blob/main/CapturasDeTelas/InterfaceFinal.jpeg">
 
 # Prints de código 
 
