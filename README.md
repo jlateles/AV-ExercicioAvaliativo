@@ -17,6 +17,6 @@ O nosso projeto consiste em um sistema de cadastro de livros virtuais, ou seja, 
 
 # Print da fileira do banco de dados
 
-<img src="/assets/CapturasDeTelas/banco-Postgrees.jfif">
+<img src="/assets/AV-ExercicioAvaliativo/CapturasDeTelas/banco-Postgrees.jfif">
 
 
