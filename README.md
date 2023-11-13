@@ -22,7 +22,7 @@ SISTEMA DE CADASTRO DE LIVROS | BIBLIOTECA VIRTUAL
  - Tela de alta definição (720p) a partir de 4.7 polegadas.
 
 # Produto 
-O nosso projeto consiste em um sistema de cadastro de livros virtuais, ou seja, e-books. Os atributos cuidadosamente escolhidos para compor o cadastro incluem elementos cruciais para a identificação e categorização. As informações que compõem a interface são: título do livro, autor, editora, ano de publicação, gênero. Além disso, o sistema possui um campo de entrada para o preço do livro, permitindo a funcionalidade do aspecto comercial que foi solicitado pelo docente. 
+O nosso produto consiste em um sistema de cadastro de livros virtuais, ou seja, e-books. Os atributos cuidadosamente escolhidos para compor o cadastro incluem elementos cruciais para a identificação e categorização. As informações que compõem a interface são: título do livro, autor, editora, ano de publicação, gênero. Além disso, o sistema possui um campo de entrada para o preço do livro, permitindo a funcionalidade do aspecto comercial que foi solicitado pelo docente. 
 
 # Prótotipo Inicial - Segunda fase de desenvolvimento do Projeto
 
