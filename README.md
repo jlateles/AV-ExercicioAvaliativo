@@ -28,8 +28,6 @@ O nosso projeto consiste em um sistema de cadastro de livros virtuais, ou seja, 
 
 Criamos um protótipo (sujeito a mudança ao longo do desenvolvimento do projeto avaliativo) tanto em papel quanto na plataforma Canva para uma compreensão visual do projeto. Esses protótipos foram desenvolvidos para permitir que o grupo visualizasse de forma clara e tangível a ideia do projeto, facilitando a compreensão do que seria implementado no código. 
 
-<img src="https://github.com/jlateles/AV-ExercicioAvaliativo/blob/main/CapturasDeTelas/Pr%C3%B3totipo.png">
-
 # Interface Final 
 <img src="https://github.com/jlateles/AV-ExercicioAvaliativo/blob/main/CapturasDeTelas/InterfaceFinal.jpeg">
 
