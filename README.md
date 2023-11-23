@@ -1,4 +1,4 @@
-# AV-ExercicioAvaliativo
+# AV - Projeto Avaliativo
 PROJETO DE DESENVOLVIMENTO RÁPIDO DE APLICAÇÕES EM PYTHON
 
 Alunos: <b>Daniel Seixas Tavares, Júlia Teles da Silva Bispo e Pedro Henrique Ribeiro<b>
