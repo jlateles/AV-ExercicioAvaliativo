@@ -3,7 +3,7 @@ PROJETO DE DESENVOLVIMENTO RÁPIDO DE APLICAÇÕES EM PYTHON
 
 Alunos: <b>Daniel Seixas Tavares, Júlia Teles da Silva Bispo e Pedro Henrique Ribeiro<b>
 
-[![My Skills](https://skillicons.dev/icons?i=python,postgres&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,postgres,replit,vscode&theme=light)](https://skillicons.dev)
 
 SISTEMA DE CADASTRO DE LIVROS | BIBLIOTECA VIRTUAL
 
